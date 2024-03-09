@@ -4,12 +4,12 @@
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
 
 ## COMPONENTS REQUIRED
-Arduino </br>
-Led </br>
-Resistance </br>
-Push button </br>
-Bread board </br>
-Jumber wire </br>
+* Arduino </br>
+* Led </br>
+* Resistance </br>
+* Push button </br>
+* Bread board </br>
+* Jumber wire </br>
 
 ## PROCEDURE
 Step 1 Connect all the componets as per the circut diagram </br>
@@ -50,12 +50,12 @@ In the setup function, the pin mode for the LED and pushbutton pins are set usin
 ![image](https://github.com/anishkumar-Embedded/Led-control-using-Arduino/assets/71547910/8b4930b4-4040-46ab-9e2e-d3277559ae6f)
 
 ### Applications
-Interactive Light Display </br>
-Educational Game for Children </br>
-Home Automation </br>
-Security System Indicator </br>
-Emergency Signaling System </br>
-Weighing Machines </br>
+* Interactive Light Display </br>
+* Educational Game for Children </br>
+* Home Automation </br>
+* Security System Indicator </br>
+* Emergency Signaling System </br>
+* Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 ![image](https://github.com/AmruthaRajsheker/Led-control-using-Arduino/assets/119475943/7f5add27-d9a0-41f2-9319-f767d6136dac)
