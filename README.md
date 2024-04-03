@@ -61,7 +61,7 @@ In the setup function, the pin mode for the LED and pushbutton pins are set usin
 * Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-![image](https://github.com/AmruthaRajsheker/Led-control-using-Arduino/assets/119475943/ff7e889e-6ba9-4fb7-84e1-34e82c354175)
+![image](https://github.com/AmruthaRajsheker/Led-control-using-Arduino/assets/119475943/4dc53da5-9fbb-49d1-b3b7-bc790456dd5b)
 
 ## PROGRAM
 ```
@@ -87,10 +87,10 @@ void loop()
 ```
 ## OUTPUT
 ### off
-![image](https://github.com/AmruthaRajsheker/Led-control-using-Arduino/assets/119475943/3cdda50b-e0a0-4ec9-8906-cc2eab14974b)
+![image](https://github.com/AmruthaRajsheker/Led-control-using-Arduino/assets/119475943/579cecdd-ef7c-406e-beaa-b0b945278d14)
 
 ### on
-![image](https://github.com/AmruthaRajsheker/Led-control-using-Arduino/assets/119475943/44f8ad67-207f-42b6-8031-44cb68a076c1)
+![image](https://github.com/AmruthaRajsheker/Led-control-using-Arduino/assets/119475943/bee41b0c-4645-4e2e-a167-5e2072d8bd9c)
 
 
 ## RESULT
