@@ -1,4 +1,7 @@
-# Led-control-using-Arduino
+##### NAME : Amrutha Rajsheker 
+##### REG.NO : 212222110003
+
+# EXPERIMENT 1 - Led control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
